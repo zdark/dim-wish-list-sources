@@ -1,6 +1,7 @@
 title:This is a compiled collection of god/recommended rolls for season 15
 description:Z
 
+#https://www.thegamer.com/destiny-2-best-rolls-season-of-the-lost-weapons/
 #Scathelocke
 dimwishlist:item=602618796&perks=1294026524,839105230,106909392,1820235745,3425386926#notes:2021-08-27 PVE
 https://destinytracker.com/destiny-2/db/items/602618796-scathelocke?perks=1294026524,839105230,106909392,1820235745,3425386926,4248210736,2323986101,518224747,0,2285418970#notes:2021-08-27 PVE
